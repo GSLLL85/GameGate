@@ -1,7 +1,8 @@
 {
+  "version": "0.9.0-beta.6",
+  "minimumVersion": "0.9.0-beta.5",
   "installerUrls": [
     "https://github.com/GSLLL85/GameGate/releases/download/GameGate/GameGate-Setup.exe"
   ],
   "sha256": "33e0ec65a2e6f1230267997deb5a0fc3945dc64758c4d9af6e640bf028ab1b14",
   "size": 0
-}
